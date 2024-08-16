@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/yuqihui/CommonConnectionPool/build/src",
+  "command": "/usr/bin/g++    -g -g -I/home/yuqihui/CommonConnectionPool/include    -o CMakeFiles/main.dir/main.cpp.o -c /home/yuqihui/CommonConnectionPool/src/main.cpp",
+  "file": "/home/yuqihui/CommonConnectionPool/src/main.cpp"
+},
+{
+  "directory": "/home/yuqihui/CommonConnectionPool/build/src",
+  "command": "/usr/bin/g++    -g -g -I/home/yuqihui/CommonConnectionPool/include    -o CMakeFiles/main.dir/CommonConnectionPool.cpp.o -c /home/yuqihui/CommonConnectionPool/src/CommonConnectionPool.cpp",
+  "file": "/home/yuqihui/CommonConnectionPool/src/CommonConnectionPool.cpp"
+},
+{
+  "directory": "/home/yuqihui/CommonConnectionPool/build/src",
+  "command": "/usr/bin/g++    -g -g -I/home/yuqihui/CommonConnectionPool/include    -o CMakeFiles/main.dir/Connection.cpp.o -c /home/yuqihui/CommonConnectionPool/src/Connection.cpp",
+  "file": "/home/yuqihui/CommonConnectionPool/src/Connection.cpp"
+},
+{
+  "directory": "/home/yuqihui/CommonConnectionPool/build/src",
+  "command": "/usr/bin/g++    -g -g -I/home/yuqihui/CommonConnectionPool/include    -o CMakeFiles/main.dir/pch.cpp.o -c /home/yuqihui/CommonConnectionPool/src/pch.cpp",
+  "file": "/home/yuqihui/CommonConnectionPool/src/pch.cpp"
+}
+]
